@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a Ph.D. student in ECE at the University of Washington supervised ny Prof. Shima Abadi's Prof. Les Atlas's. I'm interested in ocean acoustics, signal processing, and machine learning.
+Hi, I'm a Ph.D. student in ECE at the University of Washington supervised by Prof. Shima Abadi and Prof. Les Atlas. I'm interested in ocean acoustics, signal processing, and machine learning.
